@@ -1,4 +1,4 @@
-# Sourjya Mukherjee — Personal Portfolio
+# Sourjya Mukherjee
 
 A responsive, dark minimalist portfolio built with plain HTML, CSS and vanilla JavaScript.
 
