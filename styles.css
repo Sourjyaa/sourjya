@@ -70,13 +70,13 @@ button { font: inherit; }
   right: max(2rem, 6vw);
   width: clamp(90px, 12vw, 150px);
   height: auto;
-  color: rgba(255, 255, 255, 0.035);
+  color: rgba(255, 255, 255, 0.06);
   pointer-events: none;
   user-select: none;
   transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), color 0.4s ease;
 }
 .has-watermark:hover .section-watermark {
-  color: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.095);
   transform: translateY(-4px);
 }
 
